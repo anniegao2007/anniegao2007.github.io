@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Computer Science Tutorials"
 permalink: /cs-tutorials/
+---
 
 # Computer Science Tutorials
 
