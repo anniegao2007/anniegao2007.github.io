@@ -13,6 +13,10 @@ Instructor contact: anniegao2007@gmail.com
   <img src=https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg />
 </p>
 
+<p align=center>
+  This is the class website for the Advanced Python program. All course material will be posted here.
+</p>
+
 ## Class Schedule
 
 | Week  | Topic             | In-Class Material | Homework | Miscellaneous |
@@ -21,8 +25,8 @@ Instructor contact: anniegao2007@gmail.com
 | 2  | Inheritance          |
 | 3  | Project 1            |
 | 4  | Containers           |
-| 5  | Basic Data Structures|
-| 6  | Project 2            |
+| 5  | Project 2            |
+| 6  | Basic Data Structures|
 | 7  | Project 3            |
 | 8  | Project 4            |
 | 9  | Project 5            |
