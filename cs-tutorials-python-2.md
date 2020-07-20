@@ -17,13 +17,15 @@ This is the class website for the Advanced Python program. All course material w
 
 | Week  | Topic             | In-Class Material | Homework | Miscellaneous |
 | :---: | :---:             | :---:             | :---:    | :--:          |
-| 1  | Mutation, Recursion  |
-| 2  | Inheritance          |
+| 1  | Mutation             |
+{ 2  | Recursion            |
 | 3  | Project 1            |
-| 4  | Containers           |
+| 4  | Inheritance          |
 | 5  | Project 2            |
-| 6  | Basic Data Structures|
+| 6  | Containers           |
 | 7  | Project 3            |
-| 8  | Project 4            |
-| 9  | Project 5            |
-| 10 | Project 6            |
+| 8  | Data Structures I    |
+| 9  | Project 4            |
+| 10 | Data Structures II   |
+| 11 | Project 5            |
+| 12 | Project 6            |
