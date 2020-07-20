@@ -18,7 +18,7 @@ This is the class website for the Advanced Python program. All course material w
 | Week  | Topic             | In-Class Material | Homework | Miscellaneous |
 | :---: | :---:             | :---:             | :---:    | :--:          |
 | 1  | Mutation             |
-{ 2  | Recursion            |
+| 2  | Recursion            |
 | 3  | Project 1            |
 | 4  | Inheritance          |
 | 5  | Project 2            |
