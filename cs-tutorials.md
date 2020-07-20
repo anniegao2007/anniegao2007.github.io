@@ -1,7 +1,7 @@
 ---
-theme: jekyll-theme-cayman
-layout: page
 title: "Computer Science Tutorials"
+theme: jekyll-theme-cayman
+layout: default
 permalink: /cs-tutorials/
 ---
 

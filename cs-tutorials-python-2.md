@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-layout: page
+layout: default
 title: "Advanced Python"
 permalink: /cs-tutorials/python-2
 ---
@@ -10,7 +10,7 @@ Annie Gao, Summer 2020
 Instructor contact: anniegao2007@gmail.com
 
 <p align=center>
-  <img src=https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg />
+  <img src='https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg' />
 </p>
 
 <p align=center>
