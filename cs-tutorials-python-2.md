@@ -6,7 +6,7 @@ permalink: /cs-tutorials/python-2
 ---
 
 # Advanced Python
-Annie Gao, Summer 2020  
+Summer 2020  
 Instructor contact: anniegao2007@gmail.com
 
 ![success](https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg)
