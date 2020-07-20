@@ -9,13 +9,9 @@ permalink: /cs-tutorials/python-2
 Annie Gao, Summer 2020  
 Instructor contact: anniegao2007@gmail.com
 
-<p align=center>
-  <img src='https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg' />
-</p>
-
-<p align=center>
-  This is the class website for the Advanced Python program. All course material will be posted here.
-</p>
+![success](https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg)
+  
+This is the class website for the Advanced Python program. All course material will be posted here.
 
 ## Class Schedule
 
