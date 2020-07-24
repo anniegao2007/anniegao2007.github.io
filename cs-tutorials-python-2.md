@@ -14,14 +14,15 @@ Instructor contact: anniegao2007@gmail.com
 This is the class website for the Project-Based Python program. All course material will be posted here.
 
 ## Class Schedule
+
 | Topic                      | Projects                | Session | In-Class Material | Homework | Miscellaneous |
 | :---:                      | :---:                   | :---:   | :--:              | :---:    | :---:         |
-| Object-Orieted Programming | 1: Piggy Bank           | 1       |
-|                            | 2: A Game of Life       | 2       |
-|                            |                         | 3       |
-| Inheritance                | 3: Toy Store            | 4       |
-|                            | 4: My Littlest Pet Shop | 5       |
-| Game Development           | 5: Battleship           | 6       |
-|                            |                         | 7       |
-|                            | 6: Yahtzee              | 8       |
-|                            |                         | 9       |
+| Object-Orieted Programming | 1: Piggy Bank           | 1       | | | |
+|                            | 2: A Game of Life       | 2       | | | |
+|                            |                         | 3       | | | |
+| Inheritance                | 3: Toy Store            | 4       | | | |
+|                            | 4: My Littlest Pet Shop | 5       | | | |
+| Game Development           | 5: Battleship           | 6       | | | |
+|                            |                         | 7       | | | |
+|                            | 6: Yahtzee              | 8       | | | |
+|                            |                         | 9       | | | |
