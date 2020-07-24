@@ -17,7 +17,7 @@ This is the class website for the Project-Based Python program. All course mater
 
 | Topic                      | Projects                | Session | In-Class Material | Homework | Miscellaneous |
 | :---:                      | :---:                   | :---:   | :--:              | :---:    | :---:         |
-| Object-Orieted Programming | 1: Piggy Bank           | 1       | | | |
+| Object-Oriented Programming | 1: Piggy Bank           | 1       | | | |
 |                            | 2: A Game of Life       | 2       | | | |
 |                            |                         | 3       | | | |
 | Inheritance                | 3: Toy Store            | 4       | | | |
