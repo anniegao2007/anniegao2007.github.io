@@ -1,31 +1,27 @@
 ---
 theme: jekyll-theme-cayman
 layout: default
-title: "Advanced Python"
+title: "Project-Based Python"
 permalink: /cs-tutorials/python-2
 ---
 
-# Advanced Python
+# Project-Based Python
 Summer 2020  
 Instructor contact: anniegao2007@gmail.com
 
 ![success](https://i.pinimg.com/originals/dc/ab/22/dcab22f4cfd2c666ecc0352d25647132.jpg)
   
-This is the class website for the Advanced Python program. All course material will be posted here.
+This is the class website for the Project-Based Python program. All course material will be posted here.
 
 ## Class Schedule
-
-| Session  | Topic             | In-Class Material | Homework | Miscellaneous |
-| :---:    | :---:             | :---:             | :---:    | :--:          |
-| 1        | Recursion            |
-| 2        | Mutation             |
-| 3        | Project 1            |
-| 4        | Inheritance          |
-| 5        | Project 2            |
-| 6        | Containers           |
-| 7        | Project 3            |
-| 8        | Data Structures I    |
-| 9        | Project 4            |
-| 10       | Data Structures II   |
-| 11       | Project 5            |
-| 12       | Project 6            |
+| Topic                      | Projects                | Session | In-Class Material | Homework | Miscellaneous |
+| :---:                      | :---:                   | :---:   | :--:              | :---:    | :---:         |
+| Object-Orieted Programming | 1: Piggy Bank           | 1       |
+|                            | 2: A Game of Life       | 2       |
+|                            |                         | 3       |
+| Inheritance                | 3: Toy Store            | 4       |
+|                            | 4: My Littlest Pet Shop | 5       |
+| Game Development           | 5: Battleship           | 6       |
+|                            |                         | 7       |
+|                            | 6: Yahtzee              | 8       |
+|                            |                         | 9       |
