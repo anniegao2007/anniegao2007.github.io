@@ -2,7 +2,7 @@
 theme: jekyll-theme-cayman
 layout: default
 title: "Project-Based Python"
-permalink: /cs-tutorials/python-2
+permalink: /cs-tutorials/python-2/
 ---
 
 # Project-Based Python

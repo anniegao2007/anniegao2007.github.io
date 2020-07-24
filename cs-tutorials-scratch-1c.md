@@ -2,7 +2,7 @@
 title: "Scratch 1C"
 theme: jekyll-theme-cayman
 layout: default
-permalink: /cs-tutorials/scratch-1c
+permalink: /cs-tutorials/scratch-1c/
 ---
 
 # Scratch 1c
