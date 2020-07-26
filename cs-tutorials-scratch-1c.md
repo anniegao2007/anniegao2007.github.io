@@ -17,7 +17,7 @@ This is the class website for the Scratch 1C program. All course material will b
 
 | Session | Topic | In-Class Material | Homework | Miscellaneous |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Intro to Scratch |
+| 1 | Intro to Scratch | [slides](https://docs.google.com/presentation/d/1-edG9BYZiHJ_YdAy3oxeLITaMT3imY9QILzTITFz46E/edit#slide=id.p) | | Please make sure you have an account on [scratch](https://www.scratch.mit.edu)
 | 2 | Sprites and Variables |
 | 3 | Backdrops and Staging |
 | 4 | Conditional Statements |
