@@ -17,7 +17,7 @@ This is the class website for the Python Basics program. All course material wil
 
 | Session | Topic | In-Class Material | Homework | Miscellaneous |
 | :---:                      | :---:                   | :---:   | :--:              | :---:    | :---:         |
-| 1 | Introduction to Computer Science | | | |
+| 1 | Introduction to Computer Science | [slides](https://docs.google.com/presentation/d/1zrdGqy8u2-vMCf2D9gvEEJ5frlBELC79BX-GfvZh95k/edit#slide=id.g8d3acb2c85_0_77), [colab](https://colab.research.google.com/drive/1v3ye8uXNdzR8JIh9P_SprospsvWHjGww#scrollTo=xNu87CDwvRaF) | | |
 | 2 | Basic Program Structure; Variables | | | |
 | 3 | Input and Output | | | |
 | 4 | Conditional Statements | | | |
