@@ -18,7 +18,7 @@ This is the class website for the Scratch 1A program. All course material will b
 | Session | Topic | In-Class Material | Homework | Miscellaneous |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Project 1: Scratch Review | [slides](https://docs.google.com/presentation/d/1aWYhTFjxLBb-bqh9EjmylwzgbFIhK1ai2rqVmjuoGM8/edit?ts=5f233ebf#slide=id.g8d0e437b7b_0_54) | | Please make sure you have an account on [scratch](https://www.scratch.mit.edu)
-| 2 | Project 2: Custom Sprite |
+| 2 | Project 2: Custom Sprite | [slides](https://docs.google.com/presentation/d/122m9KFHh_WUh0klYASuyGR-gCGR52gzLdDVb6OhfqRI/edit#slide=id.g8ef1ac43c6_0_5) | Single-stage story (see last slide) | |
 | 3 | Project 3: Backdrops and Staging |
 | 4 | Project 4: Conditional Statements and Loops |
 | 5 | Project 5: Game Design Thinking I |
