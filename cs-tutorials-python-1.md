@@ -18,7 +18,7 @@ This is the class website for the Python Basics program. All course material wil
 | Session | Topic | In-Class Material | Homework | Miscellaneous |
 | :---:                      | :---:                   | :---:   | :--:              | :---:    | :---:         |
 | 1 | Introduction to Computer Science | [slides](https://docs.google.com/presentation/d/1zrdGqy8u2-vMCf2D9gvEEJ5frlBELC79BX-GfvZh95k/edit#slide=id.g8d3acb2c85_0_77), [colab](https://colab.research.google.com/drive/1v3ye8uXNdzR8JIh9P_SprospsvWHjGww#scrollTo=xNu87CDwvRaF) | | |
-| 2 | Basic Program Structure; Variables | | | |
+| 2 | Basic Program Structure; Variables | [colab](https://colab.research.google.com/drive/1k1HQSkS2oP2y4n9T8v_FjZqfAQAdqZZL#scrollTo=SfRbRLwgPHjs) | [Bake Sale](https://colab.research.google.com/drive/1eFgU5aLLPM8j_YbF66XjLYP0EpvGyBNZ#scrollTo=oS_j9UibVPNt) | Jack and Aiden have extra homework to finish in-class assignment of creating an interactive program (see class colab). I will check this next class. Everyone please do your homework; last time, only Mick did his homework (great job, Mick!).|
 | 3 | Input and Output | | | |
 | 4 | Conditional Statements | | | |
 | 5 | Loops | | | |
