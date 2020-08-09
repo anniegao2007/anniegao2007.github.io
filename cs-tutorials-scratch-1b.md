@@ -18,7 +18,7 @@ This is the class website for the Scratch 1B program. All course material will b
 | Session | Topic | In-Class Material | Homework | Miscellaneous |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Project 1: Pong | [slides](https://docs.google.com/presentation/d/1g0OE3TFi-SIWdDPCuHDa2HB2r7NSbop5LsPgeYtDSFI/edit?ts=5f272bd5#slide=id.g8d4e21c3cd_2_12) | Advanced Pong | Please make sure you have an account on [scratch](https://www.scratch.mit.edu)
-| 2 | Project 2: Conditional Statements and Loops |
+| 2 | Project 2: Conditional Statements and Loops | [slides](https://docs.google.com/presentation/d/1kUhYiquEevR950Wc142Yb2K37Y9dA5rjWtRm2FfL_po/edit#slide=id.g8ffc7d76d1_0_136) | | |
 | 3 | Project 3: Game Design Thinking |
 | 4 | Project 3 continued |
 | 5 | Project 4: Another Simple Game |
