@@ -19,8 +19,8 @@ This is the class website for the Python Basics program. All course material wil
 | :---:                      | :---:                   | :---:   | :--:              | :---:    | :---:         |
 | 1 | Introduction to Computer Science | [slides](https://docs.google.com/presentation/d/1zrdGqy8u2-vMCf2D9gvEEJ5frlBELC79BX-GfvZh95k/edit#slide=id.g8d3acb2c85_0_77), [colab](https://colab.research.google.com/drive/1v3ye8uXNdzR8JIh9P_SprospsvWHjGww#scrollTo=xNu87CDwvRaF) | Create a basic program with variables.| |
 | 2 | Basic Program Structure; Variables | [colab](https://colab.research.google.com/drive/1k1HQSkS2oP2y4n9T8v_FjZqfAQAdqZZL#scrollTo=SfRbRLwgPHjs) | [Bake Sale](https://colab.research.google.com/drive/1eFgU5aLLPM8j_YbF66XjLYP0EpvGyBNZ#scrollTo=oS_j9UibVPNt) | Jack and Aiden have extra homework to finish in-class assignment of creating an interactive program (see class colab). I will check this next class. Everyone please do your homework; last time, only Mick did his homework (great job, Mick!).|
-| 3 | Control Statements | [colab](https://colab.research.google.com/drive/1mu317IYGD6h78yRXJwsOGjIpkUV9NyyB#scrollTo=21tYdZoAQDBC) | Rock, Paper, Scissors (at bottom of class colab file) | |
-| 4 | Conditional Statements | [colab](https://colab.research.google.com/drive/1Z_-1wQ2u2TpZNJSaGLAbdthnNVdZvQQo#scrollTo=vhkidW7i9aiG) | | |
+| 3 | Control Statements | [colab](https://colab.research.google.com/drive/1mu317IYGD6h78yRXJwsOGjIpkUV9NyyB#scrollTo=21tYdZoAQDBC) | Rock, Paper, Scissors (at bottom of class colab file) | Thanks again to Mick for being the only one to do his homework!|
+| 4 | Conditional Statements | [colab](https://colab.research.google.com/drive/1Z_-1wQ2u2TpZNJSaGLAbdthnNVdZvQQo#scrollTo=vhkidW7i9aiG) | Please finish Exercises 2-6 (from colab file). | I will prioritize answering questions in class for people who did their homework. Thanks Mick for doing homework; your hard work is very much appreciated. @everyone else: just remember, you have the power the decide how much you want to learn.|
 | 5 | Loops | | | |
 | 6 | Project: Guessing Game | | | |
 | 7 | Object Oriented Programming I | | | |
