@@ -21,7 +21,7 @@ This is the class website for the Python Basics program. All course material wil
 | 2 | Basic Program Structure; Variables | [colab](https://colab.research.google.com/drive/1k1HQSkS2oP2y4n9T8v_FjZqfAQAdqZZL#scrollTo=SfRbRLwgPHjs) | [Bake Sale](https://colab.research.google.com/drive/1eFgU5aLLPM8j_YbF66XjLYP0EpvGyBNZ#scrollTo=oS_j9UibVPNt) | Jack and Aiden have extra homework to finish in-class assignment of creating an interactive program (see class colab). I will check this next class. Everyone please do your homework; last time, only Mick did his homework (great job, Mick!).|
 | 3 | Control Statements | [colab](https://colab.research.google.com/drive/1mu317IYGD6h78yRXJwsOGjIpkUV9NyyB#scrollTo=21tYdZoAQDBC) | Rock, Paper, Scissors (at bottom of class colab file) | Thanks again to Mick for being the only one to do his homework!|
 | 4 | Conditional Statements | [colab](https://colab.research.google.com/drive/1Z_-1wQ2u2TpZNJSaGLAbdthnNVdZvQQo#scrollTo=vhkidW7i9aiG) | Please finish Exercises 2-6 (from colab file). | I will prioritize answering questions in class for people who did their homework. Thanks Mick for doing homework; your hard work is very much appreciated. @everyone else: just remember, you have the power the decide how much you want to learn.|
-| 5 | Loops | | | |
+| 5 | Lists and Dicts | [colab](https://colab.research.google.com/drive/1xOG2vhG6r7YufsIxb_cfooaxOGbk5PwM#scrollTo=T7d0MYxrf92I) | Ice Cream Shop, Revisited (bottom of class colab) | |
 | 6 | Project: Guessing Game | | | |
 | 7 | Object Oriented Programming I | | | |
 | 8 | Object Oriented Programming II | | | |
