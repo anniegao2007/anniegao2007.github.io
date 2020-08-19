@@ -22,7 +22,10 @@ This is the class website for the Python Basics program. All course material wil
 | 3 | Control Statements | [colab](https://colab.research.google.com/drive/1mu317IYGD6h78yRXJwsOGjIpkUV9NyyB#scrollTo=21tYdZoAQDBC) | Rock, Paper, Scissors (at bottom of class colab file) | Thanks again to Mick for being the only one to do his homework!|
 | 4 | Conditional Statements | [colab](https://colab.research.google.com/drive/1Z_-1wQ2u2TpZNJSaGLAbdthnNVdZvQQo#scrollTo=vhkidW7i9aiG) | Please finish Exercises 2-6 (from colab file). | I will prioritize answering questions in class for people who did their homework. Thanks Mick for doing homework; your hard work is very much appreciated. @everyone else: just remember, you have the power the decide how much you want to learn.|
 | 5 | Lists and Dicts | [colab](https://colab.research.google.com/drive/1xOG2vhG6r7YufsIxb_cfooaxOGbk5PwM#scrollTo=T7d0MYxrf92I) | Ice Cream Shop, Revisited (bottom of class colab) | |
-| 6 | Project: Guessing Game | | | |
+| 6 | Project: Guessing Game | [colab](https://colab.research.google.com/drive/1xkM6MY9blVFbnGTDGzsEXUZxbnQ1YmUg#scrollTo=vTwGVVH8J2rX) | Finish Guessing Game project (from colab) | |
 | 7 | Object Oriented Programming I | | | |
 | 8 | Object Oriented Programming II | | | |
 | 9 | Project: Piggy Bank | | | |
+| 10 | Basic Data Structures I | | | |
+| 11 | Basic Data Structures II | | | |
+| 12 | Class Choice Topic :) | | | |
