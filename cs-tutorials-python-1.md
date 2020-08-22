@@ -23,7 +23,7 @@ This is the class website for the Python Basics program. All course material wil
 | 4 | Conditional Statements | [colab](https://colab.research.google.com/drive/1Z_-1wQ2u2TpZNJSaGLAbdthnNVdZvQQo#scrollTo=vhkidW7i9aiG) | Please finish Exercises 2-6 (from colab file). | I will prioritize answering questions in class for people who did their homework. Thanks Mick for doing homework; your hard work is very much appreciated. @everyone else: just remember, you have the power the decide how much you want to learn.|
 | 5 | Lists and Dicts | [colab](https://colab.research.google.com/drive/1xOG2vhG6r7YufsIxb_cfooaxOGbk5PwM#scrollTo=T7d0MYxrf92I) | Ice Cream Shop, Revisited (bottom of class colab) | |
 | 6 | Project: Guessing Game | [colab](https://colab.research.google.com/drive/1xkM6MY9blVFbnGTDGzsEXUZxbnQ1YmUg#scrollTo=vTwGVVH8J2rX) | Finish Guessing Game project (from colab) | |
-| 7 | Object Oriented Programming I | | | |
+| 7 | Object Oriented Programming I | [colab](https://colab.research.google.com/drive/1gGP8kesd7whT0RTO_vzv77g_aVuWbbI9#scrollTo=Y-Fu7u_Qiuf5) | The StuffedAnimal class (from colab) | |
 | 8 | Object Oriented Programming II | | | |
 | 9 | Project: Piggy Bank | | | |
 | 10 | Basic Data Structures I | | | |
