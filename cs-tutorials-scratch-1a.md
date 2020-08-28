@@ -21,8 +21,8 @@ This is the class website for the Scratch 1A program. All course material will b
 | 2 | Project 2: Custom Sprite | [slides](https://docs.google.com/presentation/d/122m9KFHh_WUh0klYASuyGR-gCGR52gzLdDVb6OhfqRI/edit#slide=id.g8ef1ac43c6_0_5) | Single-stage story (see last slide) | |
 | 3 | Project 3: Backdrops and Staging | [slides](https://docs.google.com/presentation/d/1Q4CI05oS2xnzlQY0LDKm7RjSypI4h4lyETLg3D5E80w/edit?ts=5f35c2f1#slide=id.g90828a930e_0_5) | Finish Task 2 in slides | |
 | 4 | Project 4: Conditional Statements and Loops | [slides](https://docs.google.com/presentation/d/1Gu6p3BgUle27Ujcts90JmLZIQfot_DQFsFebY7QTycE/edit#slide=id.g9231c1c6a3_0_47) | Enhanced Guessing Game (in slides) | |
-| 5 | Project 5: Game Design Thinking I | [slides](https://docs.google.com/presentation/d/1GTeZH67mntPqHFj8j2qyzdcdi_H3wZxRmxSYrgdI4sQ/edit?ts=5f482cb6#slide=id.g94cfb1105e_0_0) | Make your own game! (requirements in slides) | |
-| 6 | Game Design Thinking II |
-| 7 | Project 6: Final Project Ideation |
+| 5 | Homework Catch Up | see materials for Session 4 | Finish Enhanced Guessinig Game | If this week's homework isn't finished by next class, we will have no choice but to continue working on it in class. In this manner, we will have to cut the projects and cool material I saved for the last few lessons. |
+| 6 | Project 5: Game Design Thinking I |
+| 7 | Game Design Thinking II |
 | 8 | Final Project |
 | 9 | Final Project Presentations |
