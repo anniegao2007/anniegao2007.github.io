@@ -21,7 +21,7 @@ This is the class website for the Scratch 1B program. All course material will b
 | 2 | Project 2: Conditional Statements and Loops | [slides](https://docs.google.com/presentation/d/1kUhYiquEevR950Wc142Yb2K37Y9dA5rjWtRm2FfL_po/edit#slide=id.g8ffc7d76d1_0_136) | | |
 | 3 | Homework Catch Up | Since nobody did their homework, I had no choice but to use class time to let students do last time's homework, otherwise they will not learn material and will fall behind in the future. | None | In the future, please do homework on your own time as to not waste precious class time. |
 | 4 | Project 3: Game Design Thinking | [slides](https://docs.google.com/presentation/d/15wLKs3NPeTN6BfG-ABIW91FeJXWssHRqma4no5qagbA/edit?ts=5f39b2e5#slide=id.g90917889e1_0_5) | | |
-| 5 | Project 3 continued |
+| 5 | Project 3 continued | [slides](https://docs.google.com/presentation/d/1kqJyweROUqQXpboJQwKLqbKFQ91DL9v6zRdiQhfWEMo/edit#slide=id.g90917889e1_0_5) | | |
 | 6 | Project 4: Procedural Content Generation |
 | 7 | Project 5: Final Project Ideation |
 | 8 | Final Project |
