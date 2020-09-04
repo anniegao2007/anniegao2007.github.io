@@ -27,5 +27,5 @@ This is the class website for the Python Basics program. All course material wil
 | 8 | Object Oriented Programming II | [colab](https://colab.research.google.com/drive/1hAIZnxdIM9HCcX8RaTtT54EYfjn1DdA2#scrollTo=dhD-pBgM5SG_) | Bake Sale, Revisited | |
 | 9 | Project: Piggy Bank | [colab](https://colab.research.google.com/drive/1znvPOx8SgRgGX4GMiXMI7IrhFq4jq3tD#scrollTo=a6kdjyuzRABC) | Finish Piggy Bank | |
 | 10 | Data Structures + Hangman | [colab](https://colab.research.google.com/drive/14MlJCSkG9nzZM8fTs1MS21Gahyuck9jA#scrollTo=UX4C_mKu7ne_) | | |
-| 11 | Class Choice Topic 1 | | | |
-| 12 | Class Choice Topic 2 | | | |
+| 11 | Project: Battleship | [colab](https://colab.research.google.com/drive/1FrMxHeekSgFRTUzfPEfbALghwj5aWFr7#scrollTo=i1Dh13b_HDGf)  | | |
+| 12 | Class Choice Topic :) | | | |
