@@ -1,6 +1,6 @@
 ---
 title: "Annie Gao"
-description: "All Things Carillon"
+description: "Carillonist"
 theme: jekyll-theme-cayman
 layout: default
 permalink: /carillon/
