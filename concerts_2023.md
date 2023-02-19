@@ -1,6 +1,6 @@
 ---
 title: "Annie Gao"
-description: "All things carillon"
+description: "All Things Carillon"
 theme: jekyll-theme-cayman
 layout: default
 permalink: /carillon/concerts-2023/
