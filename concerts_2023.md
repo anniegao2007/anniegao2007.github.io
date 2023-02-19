@@ -3,7 +3,7 @@ title: "Annie Gao"
 description: "All things carillon"
 theme: jekyll-theme-cayman
 layout: default
-permalink: /concerts-2023/
+permalink: /carillon/concerts-2023/
 ---
 
 # Concert Schedule, Summer 2023
