@@ -1,11 +1,12 @@
 ---
-title: "Computer Science Tutorials"
+title: "Annie Gao"
+description: "All things carillon"
 theme: jekyll-theme-cayman
 layout: default
-permalink: /cs-tutorials/
+permalink: /carillon/
 ---
 
-# Computer Science Tutorials
+# Carillon
 
 Here is a list of lessons I have created addressing various core concepts in computer science:
 * [Scratch](scratch-1c/)
