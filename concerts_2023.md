@@ -11,6 +11,7 @@ permalink: /carillon/concerts-2023/
 ## USA:
 * May 28 (Sun): Mercersburg, PA
 * Jul 5 (Wed): Hartford, CT
+* Jul 6 (Thurs): Stamford, CT
 * Jul 7 (Fri): Owings Mills, MD
 * Jul 9 (Sun): Cohasset, MA
 * Jul 10 (Mon): Norwood, MA
