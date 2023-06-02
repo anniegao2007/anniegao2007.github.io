@@ -33,6 +33,7 @@ permalink: /carillon/concerts-2023/
 * Aug 3 (Thurs): Leuven, BE
 * Aug 4 (Fri): Harderwijk, NL
 * Aug 8 (Tues): Nijkerk, NL
+* Aug 10 (Thurs): Dordrecht, NL
 * Aug 14 (Mon): Gouda, NL
 * Aug 15 (Tues): Enkhuizen, NL
 * Aug 18 (Fri): Cuijk, NL
