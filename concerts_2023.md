@@ -13,15 +13,15 @@ permalink: /carillon/concerts-2023/
 * Jul 4 (Tues): New Britain, CT
 * Jul 5 (Wed): Hartford, CT
 * Jul 6 (Thurs): Stamford, CT
-* Jul 7 (Fri): Owings Mills, MD
+* Jul 7 (Fri), 7-8pm: Owings Mills, MD ([livestream](https://www.mcdonogh.org/arts/facilities-venues/carillon))
 * Jul 8 (Sat): Salisbury, MD
 * Jul 9 (Sun): Cohasset, MA
 * Jul 10 (Mon): Norwood, MA
-* Jul 12 (Wed): Rochester, NY
+* Jul 12 (Wed), 6:30-7:30pm: Rochester, NY ([livestream](https://www.facebook.com/HopemanCarillon))
 * Jul 13 (Thurs): Erie, PA
 * Jul 14 (Fri): Westminster, PA
 * Jul 16 (Sun): Princeton, NJ
-* Jul 17 (Mon): Philadelphia, PA
+* Jul 17 (Mon), 7:30-8:30pm: Philadelphia, PA ([livestream](https://www.facebook.com/profile.php?id=100069593624715))
 * Jul 18 (Tues): New York, NY
 * Jul 19 (Wed): King of Prussia, PA
 * Jul 20 (Thurs): Bryn Mawr, PA
