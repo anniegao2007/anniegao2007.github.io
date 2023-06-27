@@ -8,6 +8,8 @@ permalink: /carillon/concerts-2023/
 
 # Concert Schedule, Summer 2023
 
+<iframe src="https://www.google.com/maps/d/embed?mid=15XNIV_XTMWjK2JXWaqLw_y1wLd2aC30&ehbc=2E312F" width="640" height="480"></iframe>
+
 ## USA:
 * May 21 (Sun): Mercersburg, PA
 * Jul 4 (Tues): New Britain, CT
