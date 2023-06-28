@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 layout: default
 permalink: /carillon/concerts-2023/
 ---
-[Back to home](carillon/)
+[Back to home](/carillon/)
 
 # Concert Schedule, Summer 2023
 
