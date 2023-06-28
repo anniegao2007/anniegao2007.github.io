@@ -5,9 +5,11 @@ theme: jekyll-theme-cayman
 layout: default
 permalink: /carillon/concerts-2023/
 ---
+[Back to home](carillon/)
 
 # Concert Schedule, Summer 2023
 
+(see map for precise locations and local event times)
 <iframe src="https://www.google.com/maps/d/embed?mid=15XNIV_XTMWjK2JXWaqLw_y1wLd2aC30&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## USA:
@@ -32,11 +34,11 @@ permalink: /carillon/concerts-2023/
 
 ## Europe:
 * Jul 29 (Sat): Mol, BE
-* Aug 3 (Thurs): Leuven, BE
+* Aug 3 (Thurs): Leuven, BE (duet)
 * Aug 4 (Fri): Harderwijk, NL
 * Aug 8 (Tues): Nijkerk, NL
 * Aug 9 (Wed): Rotterdam, NL
-* Aug 10 (Thurs): Dordrecht, NL
+* Aug 10 (Thurs): Dordrecht, NL (duet)
 * Aug 13 (Sun): Mafra, PT
 * Aug 14 (Mon): Gouda, NL
 * Aug 15 (Tues): Enkhuizen, NL
