@@ -25,7 +25,7 @@ permalink: /carillon/concerts-2023/
 * Jul 13 (Thurs): Erie, PA
 * Jul 14 (Fri): Westminster, PA
 * Jul 16 (Sun): Princeton, NJ
-* Jul 17 (Mon): Philadelphia, PA ([livestream](https://www.facebook.com/profile.php?id=100069593624715), 7:30-8:30pm)
+* Jul 17 (Mon): Philadelphia, PA ([livestream](https://www.youtube.com/@fumcogphilly/streams), 7:30-8:30pm)
 * Jul 18 (Tues): New York, NY
 * Jul 19 (Wed): King of Prussia, PA
 * Jul 20 (Thurs): Bryn Mawr, PA
