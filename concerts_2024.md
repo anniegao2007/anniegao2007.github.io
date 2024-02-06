@@ -17,7 +17,10 @@ permalink: /carillon/concerts-2024/
 * Mar 13-17 (Wed-Sun): Lake Wales, FL (International Carillon Festival at Bok Tower Gardens)
 
 ## Europe:
+* Jun 2 (Sun): Meise, BE
+* Jul 4 (Thurs): Bonn, DE
 * Jul 17 (Wed): Lommel, BE
 * Jul 20 (Sat): Tongeren, BE
 * Jul 28 (Sun): Cobh, IE
 * Aug 23 (Fri): Grimbergen, BE
+* Aug 27 (Tues): Utrecht, NL (Utrecht Early Music Festival)
