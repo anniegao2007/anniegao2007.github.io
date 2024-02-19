@@ -18,9 +18,11 @@ permalink: /carillon/concerts-2024/
 
 ## Europe:
 * Jun 2 (Sun): Meise, BE
+* Jun 28 (Fri): Kampen, NL
 * Jul 4 (Thurs): Bonn, DE
 * Jul 17 (Wed): Lommel, BE
 * Jul 20 (Sat): Tongeren, BE
 * Jul 28 (Sun): Cobh, IE
+* Aug 19 (Mon): Mechelen, BE
 * Aug 23 (Fri): Grimbergen, BE
 * Aug 27 (Tues): Utrecht, NL (Utrecht Early Music Festival)
