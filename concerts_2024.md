@@ -27,12 +27,19 @@ permalink: /carillon/concerts-2024/
 * Jul 8 (Mon): Mechelen, BE (duet)
 * Jul 20 (Sat): Tongeren, BE
 * Jul 24 (Wed): Peer, BE
+* Jul 25 (Thurs): Dordrecht, NL (duet)
 * Jul 28 (Sun): Cobh, IE
+* Aug 1 (Thurs): Dendermonde, BE
 * Aug 7 (Wed): Lommel, BE (duet)
+* Aug 9 (Fri): Barneveld, NL (duet)
 * Aug 12 (Mon): Antwerpen, BE (shared)
+* Aug 14 (Wed): Ede, NL (duet)
 * Aug 16 (Fri): Saint-Maurice, CH
+* Aug 18 (Sun): Saint-Amand-les-Eaux, FR
 * Aug 19 (Mon): Mechelen, BE (shared)
 * Aug 23 (Fri): Grimbergen, BE
 * Aug 24 (Sat): Rhenen, NL
+* Aug 26 (Mon): Gouda, NL (duet)
 * Aug 27 (Tues): Neerpelt, BE
+* Aug 28 (Wed): Barneveld, NL (duet)
 * Sept 5-7 (Thurs-Sat): Dordrecht, NL (Kors Monster Festival)
